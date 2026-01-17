@@ -48,7 +48,7 @@ Familiarity with any part of this stack is helpful—but not required for all ty
 ## 🚀 How to Contribute (Step-by-Step)
 
 ### 1️⃣ Fork the Repository
-Click the **Fork** button at the top-right corner of the [main repository page](https://github.com/your-username/MERN-LOG-OPEN-SOURCE-PROJECT).
+Click the **Fork** button at the top-right corner of the [main repository page](https://github.com/ankitkumar1809/MERN-LOG-OPEN-SOURCE-PROJECT).
 
 This creates a copy of the project under your GitHub account.
 

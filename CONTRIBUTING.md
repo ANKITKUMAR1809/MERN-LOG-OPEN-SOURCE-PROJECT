@@ -58,5 +58,5 @@ This creates a copy of the project under your GitHub account.
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/MERN-LOG-OPEN-SOURCE-PROJECT.git
+git clone https://github.com/ankitkumar1809/MERN-LOG-OPEN-SOURCE-PROJECT.git
 cd MERN-LOG-OPEN-SOURCE-PROJECT

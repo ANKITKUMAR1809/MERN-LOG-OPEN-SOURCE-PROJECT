@@ -68,16 +68,16 @@ Click the **Fork** button at the top-right of the repository.
 git clone https://github.com/ANKITKUMAR1809/MERN-LOG-OPEN-SOURCE-PROJECT.git
 cd MERN-LOG-OPEN-SOURCE-PROJECT
 ```
+---
 ### 3️⃣ Create a Branch
 ```bash
 git checkout -b feature/your-feature-name
 ```
-
 ## Branch examples:
 - feature/add-react-tutorial
 - fix/navbar-bug
 - docs/update-readme
-
+---
 ### 4️⃣ Make Changes
 - Write clean and readable code
 - Follow the project structure
@@ -88,39 +88,34 @@ git checkout -b feature/your-feature-name
 git add .
 git commit -m "Add: short description"
 ```
-
+---
 ### 6️⃣ Push to Your Fork
 ```bash
 git push origin feature/your-feature-name
 ```
-
+---
 ### 7️⃣ Create a Pull Request
 - Open your fork on GitHub
 - Click Compare & Pull Request
 - Explain what you changed and why
-
+---
 ### ✅ Pull Request Guidelines
 - One change per PR
 - Keep PRs small
 - Test before submitting
-
-## Link related issues if any
-
+- Link related issues if any
+---
 ### 🐛 Reporting Bugs
-
 - Check existing issues
-
 - Open a new issue
+  ## Include:
+    - Description
 
-## Include:
+    - Steps to reproduce
 
-- Description
+    - Expected result
 
-- Steps to reproduce
-
-- Expected result
-
-###💡 Feature Requests
+### 💡 Feature Requests
 
 - Open an issue
 

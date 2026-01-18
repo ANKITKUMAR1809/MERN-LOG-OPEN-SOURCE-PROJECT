@@ -52,8 +52,6 @@ Project structure and design explained page by page:
 mern-log/
 ├── client/        # Frontend (React)
 ├── server/        # Backend (Node + Express)
-├── database/      # MongoDB schemas
 ├── docs/          # Documentation & guides
-├── public/        # Static assets
 ├── README.md
 └── CONTRIBUTING.md

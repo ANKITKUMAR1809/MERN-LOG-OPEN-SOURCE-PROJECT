@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import GoogleButton from "../components/googleButton";
+import GoogleButton from "../components/GoogleButton";
 
 export default function Login() {
   const [formData, setFormData] = useState({ email: "", password: "" });
